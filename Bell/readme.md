@@ -1,0 +1,1 @@
+This Q# project tests out entangled Bell states. Build and run it with ```dotnet run```.
